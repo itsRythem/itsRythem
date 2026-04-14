@@ -2,7 +2,7 @@
 ### Hey there! I'm **Rythem** 👋
 
 - 🔨 I build things with **Java** and **C++** (real languages, for real developers)
-- ⚡ I enjoy writing code where I control the memory, not the other way around
+- ⚡ I enjoy writing code where I control the memory, not the other way around (NOT)
 - 🐧 Linux and I have a complicated relationship. Actually no — it's quite simple. I hate it.
 - 🪟 Proudly runs Windows. Touch grass, Linux evangelists.
 - 🎯 Goal: Write software that doesn't BSOD. (Still working on it.)
